@@ -1,18 +1,13 @@
 # My AI & Machine Learning Portfolio
 
-Welcome! I am an aspiring AI/ML Engineer. This repository showcases my projects, coding style, and problem solving approach.
+Welcome! I am an aspiring AI/ML student. This repository showcases my projects, coding style, and problem solving approach.
 
 ## 🚀 Featured Projects
 
-### 1. [Project Title 1](link to project folder)
-* **Goal:** Briefly explain what problem you solved.
-* **Tech Stack:** Python, Scikit-Learn, Pandas, Docker.
-* **Key Result:** Achieved X% accuracy / Optimized latency by Y%.
-
-### 2. [Project Title 2](link to project folder)
-* **Goal:** Brief explanation.
-* **Tech Stack:** PyTorch, Hugging Face, NLP.
-* **Key Result:** Successfully deployed an interactive web app.
+### 🛍️ [Online Shoppers Purchasing Intent](./Online-Shoppers-Intent)
+* **Goal:** Predict customer conversion rates based on web session behavior.
+* **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas.
+* **Key Insight:** Explored the trade-off between Precision and Recall to tailor model recommendations based on specific business objectives.
 
 ---
 ## 🛠️ Skills & Tools
@@ -21,5 +16,5 @@ Welcome! I am an aspiring AI/ML Engineer. This repository showcases my projects,
 * **Tools:** Git, Docker
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/yourusername)
+* **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/naina-kaur-2a5138364/)
 * **Email:** your.email@example.com
