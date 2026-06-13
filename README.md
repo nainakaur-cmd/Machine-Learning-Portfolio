@@ -16,5 +16,5 @@ Welcome! I am an aspiring AI/ML student. This repository showcases my projects, 
 * **Tools:** Git, Docker
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/naina-kaur-2a5138364/)
-* **Email:** your.email@example.com
+* **LinkedIn:** [Naina Kaur](https://linkedin.com/in/naina-kaur-2a5138364/)
+* **Email:** 2001nainakaur@gmail.com
